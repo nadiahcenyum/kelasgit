@@ -6,3 +6,4 @@ echo "intro to git basic";
 
 echo "panjaaaaaaaaaaaang sangat nak copy.";
 
+echo 123;
